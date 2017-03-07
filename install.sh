@@ -4,8 +4,8 @@ set -euo pipefail
 
 VERSION=0.1.0
 EXTENSION=codesnippet
-NAME="Swift3Snippets-${VERSION}"
-DOWNLOAD_URI=https://github.com/Priyank2016/Swift3Snippets/archive/${VERSION}.tar.gz
+NAME="Swift3Snippets"
+DOWNLOAD_URI=https://github.com/Priyank2016/Swift3Snippets/archive/master.tar.gz
 DIR="${HOME}/Library/Developer/Xcode/UserData/CodeSnippets"
 
 mkdir -p "${DIR}"
