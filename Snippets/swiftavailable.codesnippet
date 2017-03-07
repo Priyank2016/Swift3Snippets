@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@available(iOS 7, *)</string>
+	<string>@available(iOS 10, *)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4F4AC178-5A4C-4AB2-B08D-6549243282F7</string>
 	<key>IDECodeSnippetLanguage</key>
